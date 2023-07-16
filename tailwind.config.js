@@ -13,6 +13,8 @@ module.exports = {
         "light-pink": "#f74780",
         "light-grey": "#83869a",
         blue: "#4851ff",
+        "hover-blue": "#666ca3",
+        "white-op": "rgba(255, 255, 255, 0.50)",
       },
       borderRadius: {
         norm: "2.8rem",
@@ -42,6 +44,9 @@ module.exports = {
       },
       boxShadow: {
         "box-sh": "0 2.5rem 5rem 0 rgba(6, 22, 141, 0.04)",
+      },
+      padding: {
+        3.2: "3.2rem",
       },
     },
   },

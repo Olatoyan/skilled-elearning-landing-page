@@ -1,22 +1,53 @@
-# Using the Figma design file
+# Frontend Mentor - Skilled e-learning landing page solution
 
-Using this design file will help you practice building projects in the same way professionals do. Seeing the details in the design will help you improve your accuracy when building projects and build projects faster.
+This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Figma](https://www.figma.com/) is an extremely popular design tool that has a generous free tier and can also be used on both Windows and Mac computers.
+## Table of contents
 
-To get started with Figma, [download the correct app for your operating system](https://www.figma.com/downloads/). You can then open the app and open the `.fig` design file by dragging it over the app and dropping it into the projects home screen.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-If you're going to use the Desktop App, you don't need to download the Font Installer from the downloads page. But if you're planning on using the Figma web app you should download and install it to ensure the fonts show up correctly.
+## Overview
 
-If you haven't used Figma before, here are a couple of great resources to get you up to speed: 
+### The challenge
 
-- [“Everything Developers Need To Know About Figma” article on Smashing Magazine](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
-- ["Introduction to Figma for Developers" video with Ryan Warner and Jason Lengstorf on Learn with Jason](https://www.learnwithjason.dev/introduction-to-figma-for-developers)
+Users should be able to:
 
----
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-**⚠️ IMPORTANT ⚠️: Please be sure not to share our design files with anyone else. We include `.gitignore` files in the starter code download to help prevent you from accidentally uploading it to GitHub. Another easy way to prevent this is to keep the design file separate from your codebase.**
+### Links
 
----
+- Solution URL: [https://github.com/Olatoyan/skilled-elearning-landing-page](https://github.com/Olatoyan/skilled-elearning-landing-page)
+- Live Site URL: [https://toyan-skilled.netlify.app/](https://toyan-skilled.netlify.app/)
 
-Thanks for being a PRO member. We hope you enjoy the challenge! 🙂
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- CSS Grid
+- TailwindCss
+
+### What I learned
+
+How to write tailwind CSS codes
+
+### Continued development
+
+I will continue using tailwind for future projects.
+
+## Author
+
+- Website - [Toyan Skilled Landing Page](https://toyan-skilled.netlify.app/)
+- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
+- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**

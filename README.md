@@ -49,5 +49,3 @@ I will continue using tailwind for future projects.
 - Website - [Toyan Skilled Landing Page](https://toyan-skilled.netlify.app/)
 - Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
 - Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**

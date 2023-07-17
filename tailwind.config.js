@@ -15,6 +15,7 @@ module.exports = {
         blue: "#4851ff",
         "hover-blue": "#666ca3",
         "white-op": "rgba(255, 255, 255, 0.50)",
+        "hov-link": "#ffa7c3",
       },
       borderRadius: {
         norm: "2.8rem",
@@ -27,9 +28,12 @@ module.exports = {
         sec: "3.2rem",
         "sec-text": "1.8rem",
         "text-hd": "2.4rem",
+        "tab-h": "4rem",
+        "tab-text": "1.6rem",
+        "2rem": "2rem",
       },
       lineHeight: {
-        norm: "2.8rem",
+        norm: "2.6rem",
         def: "normal",
         sec: "4rem",
       },
@@ -47,6 +51,16 @@ module.exports = {
       },
       padding: {
         3.2: "3.2rem",
+      },
+      backgroundImage: {
+        grad: "linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%)",
+        "body-bg": "linear-gradient(180deg, #FFF 0%, #F0F1FF 100%)",
+      },
+      screens: {
+        lg: { max: "66.25em" },
+        slg: { max: "56.25em" },
+        mid: { max: "43.75em" },
+        xsm: { max: "37.5em" },
       },
     },
   },
